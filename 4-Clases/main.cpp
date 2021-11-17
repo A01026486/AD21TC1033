@@ -3,10 +3,8 @@
 #include "Flores.h"
 #include "Floreria.h"
 
-using std::cout;
-using std::endl;
 
-int main()
+
 {
 
     //string nombreFlor = flor1.get_nombre();
